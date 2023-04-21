@@ -10,7 +10,7 @@
 
 | Add Task View | Time View | List View |
 |--|--|--|
-| <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img4.png" width=250px> | 
+| <img src="http://uupload.ir/files/img1.png" width=250px> | 
 <br>
 
  ## Features

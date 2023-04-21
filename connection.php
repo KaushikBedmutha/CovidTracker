@@ -1,6 +1,6 @@
 <?php
    
-   $SERVER = "localhost";
+   $SERVER = "127.0.0.1:2207";
    $USERNAME = "root";
    $PASSWORD = "";
    $db_Name = "form";

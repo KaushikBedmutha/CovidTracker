@@ -5,12 +5,12 @@
 
 | Login View | Register View | Tasks View |
 |--|--|--|
-| <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img1.png" width=250px> | <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img2.png" width=250px> | <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img3.png" width=250px> |
+| <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img1.png" width=250px> | <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img2.png" width=250px> | <img src="http://uupload.ir/files/flfm_screenshot_1576840885.png" width=250px> |
 
 
 | Add Task View | Time View | List View |
 |--|--|--|
-| <img src="http://uupload.ir/files/img1.png" width=250px> | 
+| <img src="img1.png" width=250px> | 
 <br>
 
  ## Features

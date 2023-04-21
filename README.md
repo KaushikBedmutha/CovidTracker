@@ -4,9 +4,11 @@
 <br>
 
 
-| <img src="img1.png" width=250px height = 250px> | <img src="img2.png" width=250px height=250px> | <img src="img3.png" width=250px height=250px> |
+| <img src="img1.png" width=250px > | 
 
+| <img src="img3.png" width=250px > |
 
+| <img src="img2.png" width=250px > |
 
 | <img src="img4.png" height=250px> | 
 <br>

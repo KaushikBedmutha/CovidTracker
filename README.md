@@ -3,14 +3,12 @@
 
 <br>
 
-| Login View | Register View | Tasks View |
-|--|--|--|
-| <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img1.png" width=250px> | <img src="D:\DBIT\Third Year\Sem 5\Projects\Tecknek\CovidTracker\img2.png" width=250px> | <img src="http://uupload.ir/files/flfm_screenshot_1576840885.png" width=250px> |
+
+| <img src="img1.png" width=250px height = 250px> | <img src="img2.png" width=250px height=250px> | <img src="img3.png" width=250px height=250px> |
 
 
-| Task View |
-|--|--|--|
-| <img src="img1.png" height=250px> | 
+
+| <img src="img4.png" height=250px> | 
 <br>
 
  ## Features
